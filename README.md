@@ -29,4 +29,5 @@ Estructura de carpetas y descripción de cada fichero
 - Aclaración: Los enlaces a los prototipos Figma de alta fidelidad (mock ups) son los mismos que los entregados en la entrega2 de la práctica 3, y además también se encuentran en la web del proyecto.
 - Enlace a wireframes de media fidelidad, añadidos en la práctica 4: 
 https://www.figma.com/design/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=nb3mxXObTe3ewjOq-1
-- Prototipo: https://www.figma.com/proto/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=F6KgqFndTR0nkS1H-1
+- Prototipo:
+https://www.figma.com/proto/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=F6KgqFndTR0nkS1H-1
