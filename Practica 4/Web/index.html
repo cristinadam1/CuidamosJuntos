@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CuidamosJuntos</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --color-primario: #f5a683;
+      --color-secundario: #74897e;
+    }
+
+    body {
+      background-color: #f5f5f5;
+      color: #333;
+    }
+
+    nav {
+      background-color: var(--color-primario);
+    }
+
+    .brand-logo {
+      margin-left: 20px;
+    }
+
+    .btn-custom {
+      background-color: var(--color-secundario);
+    }
+
+    .btn-custom:hover {
+      background-color: #5e7164;
+    }
+
+    footer {
+      background-color: var(--color-secundario);
+      color: white;
+      padding: 20px 0;
+    }
+
+    .user-type {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .user-type img {
+      width: 50px;
+      height: 50px;
+      margin-right: 15px;
+    }
+
+    h5, h6 {
+      margin: 30px 0;
+      font-family: 'Roboto', sans-serif;
+      color: var(--color-secundario);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    h5 {
+      font-size: 1.8rem;
+    }
+
+    h6 {
+      font-size: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav>
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo">CuidamosJuntos</a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">Menu</i></a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#introduccion">Introducción</a></li>
+        <li><a href="#desarrollo">Desarrollo</a></li>
+        <li><a href="#resultados">Resultados</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Mobile Sidenav -->
+  <ul class="sidenav" id="mobile-demo">
+    <li><a href="#introduccion">Introducción</a></li>
+    <li><a href="#desarrollo">Desarrollo</a></li>
+    <li><a href="#resultados">Resultados</a></li>
+  </ul>
+
+  <!-- Hero Section -->
+  <div class="section center-align" style="padding: 50px 20px;">
+    <h4>Conectando generaciones, organizando actividades</h4>
+    <p>Con CuidamosJuntos, creamos un espacio donde las personas mayores y voluntarios participan juntos en actividades organizadas para fortalecer los lazos comunitarios.</p>
+    <p>Ver prototipos app:</p>
+    <a class="btn btn-large btn-custom" style="margin: 10px 10px;" href="https://www.figma.com/proto/iDg1KXNbk57Ka6uvuQOpsK/Prototipos-DES?node-id=112-327&t=UHyHkoTTaCaoLUei-1">Adulto Mayor</a>
+    <a class="btn btn-large btn-custom" style="margin: 10px 10px;" href="https://www.figma.com/proto/iDg1KXNbk57Ka6uvuQOpsK/Prototipos-DES?node-id=4-2&starting-point-node-id=42%3A407&t=mzUorvxjft1PdfjV-1">Familiar</a>
+    <a class="btn btn-large btn-custom" style="margin: 10px 10px;" href="https://www.figma.com/proto/iDg1KXNbk57Ka6uvuQOpsK/Prototipos-DES?node-id=47-127&starting-point-node-id=47%3A127&t=L90MNPxMbiLkFmg1-1">Trabajador</a>
+    <a class="btn btn-large btn-custom" style="margin: 10px 10px;" href="https://www.figma.com/proto/iDg1KXNbk57Ka6uvuQOpsK/Prototipos-DES?node-id=185-140&starting-point-node-id=185%3A140&show-proto-sidebar=1&t=L90MNPxMbiLkFmg1-1">Voluntario</a>
+  </div>
+
+  <!-- Introducción -->
+  <div id="introduccion" class="section" style="padding: 50px 50px;">
+    <h5>Introducción</h5>
+    <p>El objetivo de esta aplicación es facilitar la organización de actividades para residencias de ancianos, fomentando la colaboración entre voluntarios externos, residentes y sus familiares. La app está diseñada para atender las necesidades de cuatro tipos de usuarios:</p>
+
+    <div class="user-type">
+      <img src="https://cdn-icons-png.flaticon.com/128/3476/3476330.png" alt="Trabajadores">
+      <p><strong>Trabajadores de las residencias:</strong> Organizan y supervisan las actividades para garantizar su éxito.</p>
+    </div>
+
+    <div class="user-type">
+      <img src="https://cdn-icons-png.flaticon.com/128/437/437519.png" alt="Adultos mayores">
+      <p><strong>Adultos mayores:</strong> Participan en las actividades para mantenerse activos y conectados.</p>
+    </div>
+
+    <div class="user-type">
+      <img src="https://cdn-icons-png.flaticon.com/128/3097/3097951.png" alt="Familiares">
+      <p><strong>Familiares:</strong> Pueden seguir las actividades y ver fotos para mantenerse informados.</p>
+    </div>
+
+    <div class="user-type">
+      <img src="https://cdn-icons-png.flaticon.com/128/1772/1772102.png" alt="Voluntarios">
+      <p><strong>Voluntarios:</strong> Colaboran activamente en las actividades, aportando su tiempo y habilidades.</p>
+    </div>
+  </div>
+
+  <!-- Desarrollo -->
+  <div id="desarrollo" class="section" style="padding: 50px 50px;">
+    <h5>Desarrollo</h5>
+    <p>Durante el desarrollo de CuidamosJuntos, se siguieron las mejores prácticas en programación, incluyendo metodologías ágiles, diseño centrado en el usuario y pruebas iterativas para asegurar un producto final funcional y accesible.</p>
+    <p>Entre las tecnologías utilizadas se incluyen:</p>
+    <ul>
+      <li>Framework Android para el desarrollo de la app.</li>
+      <li>Firebase para el almacenamiento de datos y autenticación.</li>
+      <li>Material Design para garantizar una interfaz intuitiva y moderna.</li>
+    </ul>
+  </div>
+
+  <!-- Resultados -->
+  <div id="resultados" class="section" style="padding: 50px 50px;">
+    <h5>Resultados</h5>
+    <!-- Adulto mayor -->
+    <h6 class="center-align">Adulto mayor</h6>
+    <!-- Carrusel de imágenes -->
+    <div id="adulto-mayor" class="carousel carousel-slider center" data-indicators="true">
+      <div class="carousel-item" href="#one!">
+        <img src="./img/AdultoMayor1.png" alt="Inicio sesión y lista actividades">
+        <div class="carousel-caption">
+          <h5>Inicio sesión y lista actividades</h5>
+        </div>
+      </div>
+      <div class="carousel-item" href="#two!">
+        <img src="./img/AdultoMayor2.png" alt="Detalle actividad e imágenes asociadas">
+        <div class="carousel-caption">
+          <h5>Detalle actividad e imágenes asociadas</h5>
+        </div>
+      </div>
+    </div>
+    <br>
+    <!-- Familiares -->
+    <h6 class="center-align">Familiar</h6>
+    <!-- Carrusel de imágenes -->
+    <div id="adulto-mayor" class="carousel carousel-slider center" data-indicators="true">
+      <div class="carousel-item" href="#one!">
+        <img src="./img/Familiar1.png" alt="Inicio sesión, selección familiar y lista de actividades">
+        <div class="carousel-caption">
+          <h5>Inicio sesión, selección familiar y lista de actividades</h5>
+        </div>
+      </div>
+      <div class="carousel-item" href="#two!">
+        <img src="./img/Familiar2.png" alt="Lista actividades filtradas, detalle actividad e imágenes asociadas">
+        <div class="carousel-caption">
+          <h5>Lista actividades filtradas, detalle actividad e imágenes asociadas</h5>
+        </div>
+      </div>
+    </div>
+    <!-- Trabajadores de la residencia -->
+    <h6 class="center-align">Trabajador residencia</h6>
+    <!-- Carrusel de imágenes -->
+    <div id="trabajador" class="carousel carousel-slider center" data-indicators="true">
+      <div class="carousel-item" href="#one!">
+        <img src="./img/Trabajador1.png" alt="Vistas trabajador">
+        <div class="carousel-caption">
+          <h5>Vistas trabajador</h5>
+        </div>
+      </div>
+    </div>
+    <br>
+    <!-- Voluntarios -->
+    <h6 class="center-align">Voluntario</h6>
+    <!-- Carrusel de imágenes -->
+    <div id="voluntario" class="carousel carousel-slider center" data-indicators="true">
+      <div class="carousel-item" href="#one!">
+        <img src="./img/Voluntario1.png" alt="Vistas voluntario">
+        <div class="carousel-caption">
+          <h5>Vistas voluntario</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Información adicional
+  <div id="contacto" class="section center-align" style="padding: 50px 20px;">
+    <h5>Contacto</h5>
+    <p>Si deseas obtener más información sobre el proyecto o colaborar, no dudes en contactarnos.</p>
+    <a class="btn btn-large btn-custom" href="#">Contacta con nosotros</a>
+  </div>
+  -->
+
+  <!-- Footer -->
+  <footer class="center-align">
+    <p>&copy; 2025 CuidamosJuntos. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var elems = document.querySelectorAll('.sidenav');
+      M.Sidenav.init(elems);
+
+      var carouselElems = document.querySelectorAll('.carousel');
+      var instances = M.Carousel.init(carouselElems, {
+        fullWidth: true,
+        indicators: true
+      });
+    });
+  </script>
+</body>
+</html>
