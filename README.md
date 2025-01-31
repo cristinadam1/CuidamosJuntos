@@ -7,14 +7,23 @@ Repositorio para el proyecto final de la asignatura de DES del Master de Ingenie
 Estructura de carpetas y descripción de cada fichero
 
 ## Practica 1:
-- MapaMental.jpg : Mapa mental
-- Estudio de mercado: Estudio de mercado con análisis DAFO de la aplicación
-- Documento descripción inicial del proyecto : Descripción del problema y la solución propuesta
+- "Idea inicial" (la idea inicial del proyecto)
+    - MapaMental.jpg : Mapa mental
+    - Estudio de mercado: Estudio de mercado con análisis DAFO de la aplicación
+    - Documento descripción inicial del proyecto : Descripción del problema y la solución propuesta
+- "Idea final" (la idea que finalmente se ha desarrollado)
+    - Documento del estudio de mercado
+
 ## Practica 2:
-- DiagramaCasosUso.png : Diagrama con los casos de uso de la aplicación
-- DocumentoVisionFormato : Documento de visión de la aplicación
-- PlantillaPersonajesEscenario : Descripción de los personajes para la aplicación de la técnica personajes escenarios 
-- Aplicacion_Asistencia_Personas_Mayores_Presentacion : Presentación expuesta en clase de la práctica 2
+- "Idea inicial" (la idea inicial del proyecto)
+    - DiagramaCasosUso.png : Diagrama con los casos de uso de la aplicación
+    - DocumentoVisionFormato : Documento de visión de la aplicación
+    - PlantillaPersonajesEscenario : Descripción de los personajes para la aplicación de la técnica personajes escenarios 
+    - Aplicacion_Asistencia_Personas_Mayores_Presentacion : Presentación expuesta en clase de la práctica 2
+- "Idea final" (la idea que finalmente se ha desarrollado)
+    - Documento de visión
+    - Plantilla personajes y escenarios
+
 ## Practica 3:
 - Bocetos en papel : Carpeta con algunos bocetos en papel de los prototipos de Justinmind
 - Entrega1 : Carpeta con todos los documentos hechos para la entrega 1 de la Práctica 3
@@ -24,11 +33,12 @@ Estructura de carpetas y descripción de cada fichero
 - DocumentoArquitecturaInformacion
 - DocumentoPlanificación
 - HTAs y Wireflows : Imágenes de los HTA y wireflows hechos a mano
+
 ## Practica4:
 - Web: Carpeta con la web de presentación del producto
 - 4 informes del RecorridoCognitivo de cada rol de la aplicación: Adulto Mayor, Familiar, Voluntario y Trabajador
 - RecorridoCognitivo_Usuario: Fichero para los usuarios a la hora de realizar las sesiones de evaluación.
-- Aclaración: Los enlaces a los prototipos Figma de alta fidelidad (mock ups) son los mismos que los entregados en la entrega2 de la práctica 3, y además también se encuentran en la web del proyecto.
+- Aclaración: Los enlaces a los prototipos Figma de alta fidelidad (mock ups) son los mismos que los entregados en la entrega2 de la práctica 3 pero algunos de ellos (como el Adulto Mayor) han sido modificados, y además también se encuentran en la web del proyecto.
 - Enlace a wireframes de media fidelidad, añadidos en la práctica 4: 
 
 https://www.figma.com/design/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=nb3mxXObTe3ewjOq-1
