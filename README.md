@@ -46,6 +46,7 @@ https://www.figma.com/design/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelid
 
 https://www.figma.com/proto/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=F6KgqFndTR0nkS1H-1
 - Enlace a la página web:
-
-https://cuidamosjuntos.my.canva.site/
+Hemos hecho dos diseños para la página web, uno programado y otro siguiendo una plantilla. 
+    - Diseño 1: https://cuidamosjuntos.my.canva.site/
+    - Diseño 2: [web]("Practica 4/Web")
 
