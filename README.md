@@ -48,5 +48,5 @@ https://www.figma.com/proto/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelida
 - Enlace a la página web:
 Hemos hecho dos diseños para la página web, uno programado y otro siguiendo una plantilla. 
     - Diseño 1: https://cuidamosjuntos.my.canva.site/
-    - Diseño 2: [web]("Practica 4/Web")
+    - Diseño 2: [web](Practica 4/Web)
 
