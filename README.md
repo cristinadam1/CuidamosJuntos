@@ -1,7 +1,7 @@
 # CuidamosJuntos
 Repositorio para el proyecto final de la asignatura de DES del Master de Ingeniería Informática UGR
 
-![captura](imagenes/cuidamos.jpeg)
+![captura](imagenes/cuidamos.png)
 
 # Descripción del repositorio
 Estructura de carpetas y descripción de cada fichero
