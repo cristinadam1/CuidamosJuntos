@@ -47,5 +47,5 @@ https://www.figma.com/design/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelid
 https://www.figma.com/proto/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=F6KgqFndTR0nkS1H-1
 - Enlace a la página web:
 
-https://www.canva.com/design/DAGdw92blGs/z4JI9pskwjlLgRW23a6jrw/edit
+https://cuidamosjuntos.my.canva.site/
 
