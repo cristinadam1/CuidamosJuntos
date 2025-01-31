@@ -31,3 +31,6 @@ Estructura de carpetas y descripción de cada fichero
 https://www.figma.com/design/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=nb3mxXObTe3ewjOq-1
 - Prototipo:
 https://www.figma.com/proto/znApJxxF69jvDyH2nH4TB7/CuidamosJuntos-Media-fidelidad?node-id=0-1&t=F6KgqFndTR0nkS1H-1
+- Enlace a la página web:
+https://www.canva.com/design/DAGdw92blGs/z4JI9pskwjlLgRW23a6jrw/edit
+
